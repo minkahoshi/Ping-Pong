@@ -40,8 +40,8 @@ clock.tick(FPS)
 FPS = 60
 img_ball = "Котость.png"
 
-rocket1 = Player('racket.png', 30, 200, 4, 50, 150)
-rocket2 = Player('racket.png', 520, 200, 4, 50, 150)
+rocket1 = Player('платформа.png', 30, 200, 4, 50, 150)
+rocket2 = Player('платформа.png', 520, 200, 4, 50, 150)
 ball = GameSprite('img_ball', 200, 200, 4, 50, 50)
 
 font.init()
