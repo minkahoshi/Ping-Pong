@@ -38,7 +38,7 @@ game = True
 finish = False
 clock.tick(FPS)
 FPS = 60
-img_ball = "котость.png"
+img_ball = "Котость.png"
 
 rocket1 = Player('racket.png', 30, 200, 4, 50, 150)
 rocket2 = Player('racket.png', 520, 200, 4, 50, 150)
